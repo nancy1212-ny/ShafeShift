@@ -128,8 +128,7 @@ npx serve .
 
 ## Author
 
-**Swetha Kannan**
-[GitHub](https://github.com/swethakannan595-crypto)
+**Nancy**
 
 Feedback and suggestions are welcome.
 
